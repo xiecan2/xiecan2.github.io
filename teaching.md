@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: /cv/xiecan-en.pdf
 ---
 
 * Here is a bulleted teaching point!
