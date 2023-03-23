@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: CV
 permalink: /cv/xiecan-en2.pdf
 ---
 
